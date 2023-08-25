@@ -13,6 +13,7 @@ I'm a passionate web developer with a love for crafting engaging and functional 
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" />
 </p>
 
 **Back-end**: <p align="left"> 
@@ -27,7 +28,6 @@ I'm a passionate web developer with a love for crafting engaging and functional 
 </p>
 
 **Tools**: <p align="left"> 
-  <img src="https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
 </p>
 
