@@ -29,6 +29,7 @@ I'm a passionate web developer with a love for crafting engaging and functional 
 
 **Tools**: <p align="left"> 
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" />
 </p>
 
 ## 📫 How to Reach Me
