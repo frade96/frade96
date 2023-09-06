@@ -41,7 +41,7 @@ I'm a passionate web developer with a love for crafting engaging and functional 
 
 Check out some of my projects:
 
-- [My personal portfolio](https://portfolio.fracb.com/) - My personal web page, I have to update it :D
-- [Gentleman's hat](https://gentlemanshat.it/) - E-commerce website for hats. It's a welcome page, the real one is in coming :D
+- [My personal portfolio](https://portfolio.fracb.com/) - My personal portfolio.
+- [Gentleman's hat](https://gentlemanshat.it/) - E-commerce website for hats.    
 
 Thanks for stopping by, and feel free to connect with me!
