@@ -41,7 +41,6 @@ I'm a passionate web developer with a love for crafting engaging and functional 
 
 Check out some of my projects:
 
-- [My personal portfolio](https://portfolio.fracb.com/) - My personal portfolio.
-- [Splab | Custom](https://www.splab-custom.it/) - E-commerce website for customizations.    
+- [Splab | Custom](https://www.splabcustom.it/) - E-commerce website for customizations.    
 
 Thanks for stopping by, and feel free to connect with me!
